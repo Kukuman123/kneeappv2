@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kneeapp</string>
+    <string name="refresh">Refresh</string>
+    <string name="angle">Angle</string>
+    <string name="accel">Accel</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
